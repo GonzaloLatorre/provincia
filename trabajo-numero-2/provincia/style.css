@@ -1,0 +1,35 @@
+h1 {
+    color: darkslategray;
+}
+h1{
+    text-align: center;
+}
+h2{
+    color: chocolate;
+}
+body{
+    font-size: 6.3mm;
+    font-weight: 800;
+    background-image: url('imagen/Nuevo\ proyecto.jpg');
+    background-attachment: fixed;
+    background-size: contain;
+    background-size: cover;
+}
+.alineacion{
+    float: right;
+}
+ul{
+    list-style: none;
+}
+li a{
+    display: block;
+    margin-right: 100px;
+    float: left;
+}
+.el-chaco{
+    background-color: darkgrey;
+    float: center;
+}
+h3{
+    color: blue;
+}
